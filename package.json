@@ -1,0 +1,15 @@
+{
+  "name": "lambda-function",
+  "version": "1.0.0",
+  "description": "A minimal AWS Lambda function",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node --watch local.mjs"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pg": "^8.13.0"
+  }
+}
